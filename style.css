@@ -1,0 +1,33 @@
+#tra{
+    background-color: rgb(246, 255, 0);
+    font-style: italic;
+    color: blue;
+text-align: center;
+font-size: xxx-large;
+}
+
+#li{
+    background-color: rgb(0, 234, 255);
+    font-style: italic;
+    color: black;
+text-align: center;
+font-size: x-large;
+} 
+#p{
+text-align: justify;
+font-size: medium;
+}
+#h{
+    text-align: center;
+    background-color: black;
+    color: peachpuff;
+    font-size: 20px;
+}
+#tp{
+    background-color: peachpuff;
+color: black;
+text-align: center;
+font-size: x-large;    
+}
+
+
